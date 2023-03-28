@@ -1,0 +1,123 @@
+@charset "utf-8";
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container header h1 {
+    color: #5BC1B9;
+    text-align: center;
+    font-size: 59px;
+    margin-top: 1px;
+    margin-bottom: -11px;
+    background-image: url(2c4436e5f23b2c72775e2fe4acf2ca7d_1280.png);
+    background-clip: border-box;
+    background-attachment: fixed;
+    background-position: 62% 3%;
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    background-size: 130px auto;
+}
+
+.container header nav {
+    text-align: center;
+}
+.container nav a {
+    color: #F76062;
+    text-decoration: none;
+    font-size: 25px;
+    line-height: 63px;
+}
+.container header .img {
+    height: 250px;
+    color: #E32B2E;
+    background-image: url(FP23535VgAM-WuQ-1800x754.jpeg);
+    background-position: center center;
+    background-size: cover;
+    border-radius: 19px;
+}
+
+main article #a01 {
+    color: #FFFFFF;
+    background-color: #6CD0FB;
+    border-radius: 5px;
+    padding-left: 6px;
+    height: 26px;
+    margin-top: 17px;
+    padding-top: 7px;
+}
+.container main article {
+}
+.container footer {
+    text-align: center;
+}
+.container main article p {
+    padding-left: 0px;
+    margin-top: -14px;
+    padding-right: 0px;
+    margin-right: -33px;
+    right: 29px;
+}
+.container main {
+    padding-left: 0px;
+}
+
+
+
+main article #a06 {
+    color: #FFFFFF;
+    border-radius: 5px;
+    background-color: #6CD0FB;
+    padding-left: 6px;
+    height: 26px;
+    margin-top: 17px;
+    padding-top: 7px;
+}
+
+
+main article #a03 {
+    color: #FFFFFF;
+    border-radius: 5px;
+    background-color: #6CD0FB;
+    padding-left: 6px;
+    height: 26px;
+    margin-top: 17px;
+    padding-top: 7px;
+}
+main article #a04 {
+    color: #FFFFFF;
+    border-radius: 5px;
+    background-color: #6CD0FB;
+    padding-left: 6px;
+    height: 26px;
+    margin-top: 17px;
+    padding-top: 7px;
+}
+main article #a05 {
+    color: #FFFFFF;
+    border-radius: 5px;
+    background-color: #6CD0FB;
+    padding-left: 6px;
+    height: 26px;
+    margin-top: 17px;
+    padding-top: 7px;
+}
+
+
+
+
+main article #a02 {
+    color: #FFFFFF;
+    background-color: #6CD0FB;
+    margin-left: 0px;
+    border-radius: 5px;
+    padding-left: 6px;
+    height: 26px;
+    margin-top: 17px;
+    padding-top: 7px;
+}
+
+.container footer {
+    color: #FF0000;
+    text-decoration: underline;
+}
